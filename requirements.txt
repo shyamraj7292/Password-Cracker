@@ -1,0 +1,11 @@
+# Password Cracker Requirements
+# All required libraries are part of Python's standard library
+# No external dependencies needed!
+
+# The tool uses:
+# - hashlib (standard library)
+# - argparse (standard library)
+# - itertools (standard library)
+# - threading (standard library)
+# - queue (standard library)
+
